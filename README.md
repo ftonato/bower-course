@@ -12,7 +12,7 @@ $ npm install -g bower
 ```
 
 ## Configuração
-O Bower, assim como a grande maioria dos gerenciadores de pacotes, é configurado através de um arquivo `.json`, chamado `bower.json`, responsável por armazenar algumas informações básicas do projeto, dependências instadas e suas respectivas versões.
+O Bower, assim como a grande maioria dos gerenciadores de pacotes, é configurado através de um arquivo `.json`, chamado `bower.json`, responsável por armazenar algumas informações básicas do projeto, dependências instaladas e suas respectivas versões.
 
 O arquivo pode ser criado manualmente ou através do comando `bower init`. Ao utilizar o comando para criar o arquivo de configuração, o próprio Bower já irá sugerir algumas informações básicas para o projeto.
 Vale lembrar que se não forem alteradas as informações do arquivo durante a criação do mesmo, o Bower irá adicionar algumas informações padrões, mas que posteriormente poderão ser alteradas.
